@@ -1,0 +1,21 @@
+About me
+Hi, I am Bo! nice to meet you.
+Recently, I have just found my passion in coding while I was learning to develop mobile apps. 
+I'm quietly confident, naturally curious, and perpetually improving my chop. Currently 
+enrolled in a programming course and enjoying every moment of it. 
+
+work
+Upon graduating from University, I have worked as an engineer 
+and a chef. As an engineer, I have worked with embedded systems, programmed mainly in C and C++.
+I do love to cook as well so I have been working as a sushi chef.
+
+study
+In the year 2014, I have completed my Bachelors of Electronics and Communications Engineering in RMIT University.
+I was awarded with first class honours and was the top student in the cohort.
+
+github
+https://github.com/asunanto
+linkedin
+https://www.linkedin.com/in/wibowo-sutanto-615b61bb/
+email
+wibowo.sutanto91@gmail.com
